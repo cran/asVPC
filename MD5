@@ -1,0 +1,16 @@
+15de5e9009ecd08cae34e24725aa6770 *DESCRIPTION
+8a030ce90f0b004364805cc9d14729aa *NAMESPACE
+b9d8557572a80d1af2fc28df669a0f30 *R/VPCgraph.R
+4c9cc55ece302a73d13300a31390ac23 *R/asVPCbinW.R
+b419c703234e6f4b6876d97c01d6d478 *R/asVPCdistanceW.R
+e2add705e5dcc72ee8f3e72d9559ecab *R/makeCOVbin.R
+c4fc9fc043593561e2fe94a7466ef409 *R/read_Simdata.R
+d0448ecb2322740071f4e58104820494 *data/origdata.rda
+01d0740d441b229debde86b8facf7244 *data/simdata.rda
+282757ff120ab013199ce88c775427b7 *man/VPC.graph.Rd
+72ba97dfb8bd09c1c7cb8d68c3829c88 *man/asVPC.binW.Rd
+3e662efa7fa9489ece35cce628e4b216 *man/asVPC.distanceW.Rd
+14bd91bd4479b636ef981200b967c98a *man/makeCOVbin.Rd
+28c4f8bfe8710ba0f1f4e8a66645e81b *man/origdata.Rd
+a37bef1ea0091187e5f272752f64b5b2 *man/read_Simdata.Rd
+b2a75b8d267deabdff4ebf448565a4f0 *man/simdata.Rd
